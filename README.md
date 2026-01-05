@@ -4,4 +4,6 @@ A Monorepo (Monolithic Repository) is a single Git repository that contains mult
 
 Instead of maintaining many repos, everything lives in one repository.
 
-Next.js Frontend and FastAPI backend
+Next.js Frontend and FastAPI backend 
+
+DB is postgres
