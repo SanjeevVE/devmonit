@@ -6,4 +6,6 @@ Instead of maintaining many repos, everything lives in one repository.
 
 Next.js Frontend and FastAPI backend 
 
-DB is postgres
+DB is postgres.
+
+plan to use zustand 
